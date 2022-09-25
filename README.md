@@ -1,2 +1,2 @@
-# Oasis_infobyte_intern_project
+# Oasis infobyte
 I have made this project using HTML , CSS , Javascript
